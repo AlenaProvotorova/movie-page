@@ -3,7 +3,7 @@ import Details from '../routes/Details'
 import Home from '../routes/Home'
 
 function App() {
-  console.log('=====hh=====', );
+
   return ( 
  <Router>
    <Routes>
